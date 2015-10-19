@@ -35,18 +35,6 @@
     </item>
     
     <item>
-      <title>Новый, хороший сайт</title>
-      <link>http://kartamira.travel/blog/helloworld/</link>
-      <pubDate>Sat, 10 Oct 2015 13:53:19 &#43;0500</pubDate>
-      
-      <guid>http://kartamira.travel/blog/helloworld/</guid>
-      <description>&lt;p&gt;Отчего каждый в &amp;ldquo;Карте Мира&amp;rdquo; сегодня улыбается во все лицо? Оттого что у нас появился новый сайт.&lt;/p&gt;
-
-&lt;p&gt;А это значит, что мы теперь сможем делиться интересными историями путешествий, рассказывать про наши ужасно выгодные предложения и стать еще ближе к вам. Ну или что-то такое. Отредактируйте меня кто нибудь.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Контакты</title>
       <link>http://kartamira.travel/about/</link>
       <pubDate>Sat, 10 Oct 2015 13:53:19 &#43;0500</pubDate>
@@ -55,6 +43,18 @@
       <description>&lt;p&gt;Карта мира:  Travel Store помогает сделать путешествия незабываемыми.&lt;/p&gt;
 
 &lt;p&gt;Сюда хорошо поместить телефоны, схему проезда, краткую историю компании и био сотрудников.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новый, хороший сайт</title>
+      <link>http://kartamira.travel/blog/helloworld/</link>
+      <pubDate>Sat, 10 Oct 2015 13:53:19 &#43;0500</pubDate>
+      
+      <guid>http://kartamira.travel/blog/helloworld/</guid>
+      <description>&lt;p&gt;Отчего каждый в &amp;ldquo;Карте Мира&amp;rdquo; сегодня улыбается во все лицо? Оттого что у нас появился новый сайт.&lt;/p&gt;
+
+&lt;p&gt;А это значит, что мы теперь сможем делиться интересными историями путешествий, рассказывать про наши ужасно выгодные предложения и стать еще ближе к вам. Ну или что-то такое. Отредактируйте меня кто нибудь.&lt;/p&gt;
 </description>
     </item>
     
