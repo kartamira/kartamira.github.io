@@ -1,0 +1,96 @@
+.masthead{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #333a67;
+	background-color: #ffffff;
+}
+
+.nikanavbar li:hover{
+	background-color: #000000;
+}
+
+.navbar-inverse .navbar-nav li a{
+	color: #ffffff;
+}
+
+.glyphicon{
+	color: #666666;
+}
+
+.navbar{
+	background-color:  #666666;
+	color:#ffffff;
+	margin-bottom:0px;
+	border-radius: 0px;
+	border-width: 0px;
+}
+
+ .dropdown-menu, .dropdown-menu>a:hover{
+ 	background-color: #337ab7;
+ 	color:#ffffff;
+ }
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+ 	background-color: #666666;
+ 	color:#ffffff;
+ }
+
+.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{
+ 	background-color: #666666;
+ 	color:#ffffff;
+ }
+
+.country{
+	margin-top: 5px;
+}
+
+.nikasborders {
+	margin-left: 140px;
+	margin-right: 140px;
+}
+
+body{
+	background-color: #ffffff;
+}
+
+.footer{
+	margin-left: 140px;
+	margin-right: 140px;
+	color: #666666;
+	padding-top: 30px;
+
+}
+
+.footer-line{
+		background-color: #666666;
+		padding-top: 10px;
+		margin-bottom: 30px;
+}
+
+
+.contentus{
+	background-color: #ffffff;
+	padding-bottom: 55px;
+}
+
+
+@media (max-width: 1000px) {
+  .le-sidebar{
+  	display: none;
+  }
+}
+
+h3 a, h5 a, h1{
+		color: #666666;
+}
+
+
+.landing-carousel {
+	width: 100%;
+	margin-top: 20px;
+}
+
+#agentruIframe{
+	width: 100%;
+	display: inline;
+}
