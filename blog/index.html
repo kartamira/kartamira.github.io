@@ -68,14 +68,14 @@
 
 
 	    
-						<h3><small>2015.10.10 | </small>  <a href="http://kartamira.travel/blog/il-de-france/">Секреты Парижа: деревни Иль-де-Франс </a>  </h3>
+						<h3><small>2015.10.10 | </small>  <a href="http://localhost:1313/blog/il-de-france/">Секреты Парижа: деревни Иль-де-Франс </a>  </h3>
 		        <p class="lead">
 		                 <p>Нет в мире более классического туристического направления чем Париж.</p>
 
 		        </p>
 						<br><br>
         
-						<h3><small>2015.10.10 | </small>  <a href="http://kartamira.travel/blog/helloworld/">Новый, хороший сайт </a>  </h3>
+						<h3><small>2015.10.10 | </small>  <a href="http://localhost:1313/blog/helloworld/">Новый, хороший сайт </a>  </h3>
 		        <p class="lead">
 		                 <p>Отчего каждый в &ldquo;Карте Мира&rdquo; сегодня улыбается во все лицо? Оттого что у нас появился новый сайт.</p>
 
@@ -113,6 +113,9 @@
     </div>
 
 </div>
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

@@ -94,3 +94,21 @@ h3 a, h5 a, h1{
 	width: 100%;
 	display: inline;
 }
+
+.testimonial{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.quote-testimonial{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.carousel-control.carousel-testimony {
+	background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.0) 100%)
+}
