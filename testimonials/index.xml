@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testimonials on Карта Мира: travel store</title>
-    <link>http://localhost:1313/testimonials/</link>
+    <link>http://kartamira.travel/testimonials/</link>
     <description>Recent content in Testimonials on Карта Мира: travel store</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,14 +10,14 @@
     
     
     <lastBuildDate>Sat, 10 Oct 2015 14:33:02 &#43;0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/testimonials/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kartamira.travel/testimonials/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Дима</title>
-      <link>http://localhost:1313/testimonials/dima/</link>
+      <link>http://kartamira.travel/testimonials/dima/</link>
       <pubDate>Sat, 10 Oct 2015 14:33:02 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/testimonials/dima/</guid>
+      <guid>http://kartamira.travel/testimonials/dima/</guid>
       <description>&lt;p&gt;Иногда они возвращаются.&lt;/p&gt;
 </description>
     </item>

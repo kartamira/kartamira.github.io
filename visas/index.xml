@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visas on Карта Мира: travel store</title>
-    <link>http://localhost:1313/visas/</link>
+    <link>http://kartamira.travel/visas/</link>
     <description>Recent content in Visas on Карта Мира: travel store</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,14 +10,14 @@
     
     
     <lastBuildDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/visas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kartamira.travel/visas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Германия</title>
-      <link>http://localhost:1313/visas/germany/</link>
+      <link>http://kartamira.travel/visas/germany/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/visas/germany/</guid>
+      <guid>http://kartamira.travel/visas/germany/</guid>
       <description>
 
 &lt;h3 id=&#34;виза-в-германию:fe94097b6b54081c0781223554754367&#34;&gt;Виза в Германию&lt;/h3&gt;
@@ -113,10 +113,10 @@
     
     <item>
       <title>Индия</title>
-      <link>http://localhost:1313/visas/india/</link>
+      <link>http://kartamira.travel/visas/india/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/visas/india/</guid>
+      <guid>http://kartamira.travel/visas/india/</guid>
       <description>
 
 &lt;h3 id=&#34;виза-в-индию:4d949475e970ab272903c39bf43eb72d&#34;&gt;Виза в Индию&lt;/h3&gt;
@@ -169,10 +169,10 @@
     
     <item>
       <title>Китай</title>
-      <link>http://localhost:1313/visas/china/</link>
+      <link>http://kartamira.travel/visas/china/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/visas/china/</guid>
+      <guid>http://kartamira.travel/visas/china/</guid>
       <description>
 
 &lt;h3 id=&#34;виза-в-китай:9e7b47aafa8573a42d3fdc4d16e73d7b&#34;&gt;Виза в Китай&lt;/h3&gt;
@@ -194,10 +194,10 @@
     
     <item>
       <title>США</title>
-      <link>http://localhost:1313/visas/usa/</link>
+      <link>http://kartamira.travel/visas/usa/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/visas/usa/</guid>
+      <guid>http://kartamira.travel/visas/usa/</guid>
       <description>
 
 &lt;h3 id=&#34;виза-в-сша:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Виза в США&lt;/h3&gt;
@@ -265,10 +265,10 @@
     
     <item>
       <title>Чехия</title>
-      <link>http://localhost:1313/visas/czech/</link>
+      <link>http://kartamira.travel/visas/czech/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/visas/czech/</guid>
+      <guid>http://kartamira.travel/visas/czech/</guid>
       <description>
 
 &lt;h3 id=&#34;виза-в-чехию:4a8c3cb3c812af52211a6dd73c012866&#34;&gt;Виза в Чехию&lt;/h3&gt;

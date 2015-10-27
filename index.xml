@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Карта Мира: travel store</title>
-    <link>http://localhost:1313/</link>
+    <link>http://kartamira.travel/</link>
     <description>Recent content on Карта Мира: travel store</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,46 +10,43 @@
     
     
     <lastBuildDate>Sat, 10 Oct 2015 16:06:35 &#43;0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kartamira.travel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>landing</title>
-      <link>http://localhost:1313/landing/</link>
+      <link>http://kartamira.travel/landing/</link>
       <pubDate>Sat, 10 Oct 2015 16:06:35 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/landing/</guid>
-      <description>
-
-&lt;h1 id=&#34;убедительный-краткий-толковый-текст-на-главной-странице:51787b18476b04e3da0d6c9bbca85e48&#34;&gt;Убедительный, краткий толковый текст на главной странице&lt;/h1&gt;
-</description>
+      <guid>http://kartamira.travel/landing/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Секреты Парижа: деревни Иль-де-Франс</title>
-      <link>http://localhost:1313/blog/il-de-france/</link>
+      <link>http://kartamira.travel/blog/il-de-france/</link>
       <pubDate>Sat, 10 Oct 2015 14:33:02 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/blog/il-de-france/</guid>
+      <guid>http://kartamira.travel/blog/il-de-france/</guid>
       <description>&lt;p&gt;Нет в мире более классического туристического направления чем Париж.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Дима</title>
-      <link>http://localhost:1313/testimonials/dima/</link>
+      <link>http://kartamira.travel/testimonials/dima/</link>
       <pubDate>Sat, 10 Oct 2015 14:33:02 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/testimonials/dima/</guid>
+      <guid>http://kartamira.travel/testimonials/dima/</guid>
       <description>&lt;p&gt;Иногда они возвращаются.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Контакты</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://kartamira.travel/about/</link>
       <pubDate>Sat, 10 Oct 2015 13:53:19 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://kartamira.travel/about/</guid>
       <description>&lt;p&gt;Карта мира:  Travel Store помогает сделать путешествия незабываемыми.&lt;/p&gt;
 
 &lt;p&gt;Сюда хорошо поместить телефоны, схему проезда, краткую историю компании и био сотрудников.&lt;/p&gt;
@@ -58,10 +55,10 @@
     
     <item>
       <title>Новый, хороший сайт</title>
-      <link>http://localhost:1313/blog/helloworld/</link>
+      <link>http://kartamira.travel/blog/helloworld/</link>
       <pubDate>Sat, 10 Oct 2015 13:53:19 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/blog/helloworld/</guid>
+      <guid>http://kartamira.travel/blog/helloworld/</guid>
       <description>&lt;p&gt;Отчего каждый в &amp;ldquo;Карте Мира&amp;rdquo; сегодня улыбается во все лицо? Оттого что у нас появился новый сайт.&lt;/p&gt;
 
 &lt;p&gt;А это значит, что мы теперь сможем делиться интересными историями путешествий, рассказывать про наши ужасно выгодные предложения и стать еще ближе к вам. Ну или что-то такое. Отредактируйте меня кто нибудь.&lt;/p&gt;
@@ -69,11 +66,11 @@
     </item>
     
     <item>
-      <title>Бронирование билетов</title>
-      <link>http://localhost:1313/booking/</link>
+      <title>Бронирование авиабилетов</title>
+      <link>http://kartamira.travel/fly/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/booking/</guid>
+      <guid>http://kartamira.travel/fly/</guid>
       <description>&lt;p&gt;&lt;div id=&#34;agentruIframeWrapper&#34;&gt;&lt;/div&gt;
 &lt;script id=&#34;agentruIframeScript&#34; type=&#34;text/javascript&#34; src=&#34;https://www.agent.ru/ru/script/iframe?name=visahundredotwo&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
@@ -81,10 +78,10 @@
     
     <item>
       <title>Китай</title>
-      <link>http://localhost:1313/visas/china/</link>
+      <link>http://kartamira.travel/visas/china/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/visas/china/</guid>
+      <guid>http://kartamira.travel/visas/china/</guid>
       <description>
 
 &lt;h3 id=&#34;виза-в-китай:9e7b47aafa8573a42d3fdc4d16e73d7b&#34;&gt;Виза в Китай&lt;/h3&gt;
@@ -106,10 +103,10 @@
     
     <item>
       <title>Чехия</title>
-      <link>http://localhost:1313/visas/czech/</link>
+      <link>http://kartamira.travel/visas/czech/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/visas/czech/</guid>
+      <guid>http://kartamira.travel/visas/czech/</guid>
       <description>
 
 &lt;h3 id=&#34;виза-в-чехию:4a8c3cb3c812af52211a6dd73c012866&#34;&gt;Виза в Чехию&lt;/h3&gt;
@@ -192,138 +189,11 @@
     </item>
     
     <item>
-      <title>Индия</title>
-      <link>http://localhost:1313/visas/india/</link>
-      <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
-      
-      <guid>http://localhost:1313/visas/india/</guid>
-      <description>
-
-&lt;h3 id=&#34;виза-в-индию:4d949475e970ab272903c39bf43eb72d&#34;&gt;Виза в Индию&lt;/h3&gt;
-
-&lt;h3 id=&#34;виды-индийских-виз:4d949475e970ab272903c39bf43eb72d&#34;&gt;Виды индийских виз:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Электронная виза (туризм, однократная, до 30 дней пребывавния) - это визу можно оформить онлайн, без личного присутствия.&lt;/li&gt;
-&lt;li&gt;Однократная (1 въезд на территорию Индии)&lt;/li&gt;
-&lt;li&gt;Двукратная (2 въезда на территорию Индии)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;стоимость:4d949475e970ab272903c39bf43eb72d&#34;&gt;Стоимость:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;6 500 руб.&lt;/strong&gt; - однократная виза&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;8 500 руб.&lt;/strong&gt; - двукратная виза&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;условия:4d949475e970ab272903c39bf43eb72d&#34;&gt;Условия:&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Данная виза действует с момента выдачи.&lt;/li&gt;
-&lt;li&gt;Срок действия визы составляет 6 месяцев.&lt;/li&gt;
-&lt;li&gt;Виза является туристической, однократной/двукратной.&lt;/li&gt;
-&lt;li&gt;Срок оформления 14 - 16 календарных дней.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;необходимые-документы:4d949475e970ab272903c39bf43eb72d&#34;&gt;Необходимые документы:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Заграничный паспорт - оригинал&lt;/li&gt;
-&lt;li&gt;Копия аннулированного заграничного паспорта, при наличии индийских виз (главная страница + индийские визы)&lt;/li&gt;
-&lt;li&gt;2 новые фотографии 3,5*4,5 цветные на белом фоне&lt;/li&gt;
-&lt;li&gt;Заполненный опросник (все пункты обязательны для заполнения)&lt;/li&gt;
-&lt;li&gt;Свидетельство о рождении (для детей до 18 лет) - копия&lt;/li&gt;
-&lt;li&gt;Согласие на вывоз ребенка (копия) + копия российского паспорта не выезжающего родителя (в случае поездки с одним из родителей)&lt;/li&gt;
-&lt;li&gt;Бронь отеля, авиабилета – при наличии&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;способы-оплаты:4d949475e970ab272903c39bf43eb72d&#34;&gt;Способы оплаты:&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Наличный расчет в офисе (г. Уфа, ул. Цюрупы, д. 124)&lt;/li&gt;
-&lt;li&gt;Оплата с банковской карты&lt;/li&gt;
-&lt;li&gt;Оплата через отделение Сбербанка&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>США</title>
-      <link>http://localhost:1313/visas/usa/</link>
-      <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
-      
-      <guid>http://localhost:1313/visas/usa/</guid>
-      <description>
-
-&lt;h3 id=&#34;виза-в-сша:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Виза в США&lt;/h3&gt;
-
-&lt;h3 id=&#34;стоимость:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Стоимость:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2 500 руб.&lt;/strong&gt; - Подготовка всех документов, заполнение анкеты, закрытие цели поездки и запись на собеседование&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;160$&lt;/strong&gt; - Консульский/сервисный сбор (оплачивается по курсу в российских рублях)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;условия:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Условия:&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Данная виза действует с момента выдачи.&lt;/li&gt;
-&lt;li&gt;Срок действия визы &lt;strong&gt;3 года&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Срок оформления 3 недели&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;необходимые-документы:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Необходимые документы:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Оригинал заграничного паспорта (или копия всех страниц с отметками)&lt;/li&gt;
-&lt;li&gt;Оригинал аннулированного заграничного паспорта (или копия всех страниц с отметками)&lt;/li&gt;
-&lt;li&gt;Копия российского паспорта (главная страница+прописка)&lt;/li&gt;
-&lt;li&gt;1 распечатанная и 1 в электронном виде фотография 5*5 см. цветные на белом фоне&lt;/li&gt;
-&lt;li&gt;Заполненный опросник&lt;/li&gt;
-&lt;li&gt;Справка с работы с указанием должности и заработной платы /справка с места учебы / пенсионное удостоверение&lt;/li&gt;
-&lt;li&gt;Справка из банка об остатке денежных средств на счете.&lt;/li&gt;
-&lt;li&gt;Подтверждение социально-экономических связей с родиной (копии свидетельств на собственность, о браке, о рождении детей) - при наличии&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;необходимые-документы-для-несовершеннолетних-детей:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Необходимые документы для несовершеннолетних детей:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Свидетельство о рождении (для детей до 18 лет)&lt;/li&gt;
-&lt;li&gt;Согласие на вывоз ребенка + копия российского паспорта не выезжающего родителя (в случае поездки с одним из родителей)&lt;/li&gt;
-&lt;li&gt;Справка с места учебы&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;поездка-по-частному-приглашению:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Поездка по частному приглашению&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Приглашение в свободной форме, с указанием всех данных приглашаемого и приглашающего (можно скан)&lt;/li&gt;
-&lt;li&gt;В случае поездки к близким родственникам - документальное подтверждение родства (свидетельства о рождении, о браке и т.п.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;поездка-по-бизнес-приглашению:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Поездка по бизнес приглашению:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Приглашения от делового партнера в США (можно скан)&lt;/li&gt;
-&lt;li&gt;В справке с работы обязательно указать, что направляетесь в командировку в США с ___ по ___ (даты поездки)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;способы-оплаты:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Способы оплаты:&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Наличный расчет в офисе (г. Уфа, ул. Цюрупы, д. 124)&lt;/li&gt;
-&lt;li&gt;Оплата с банковской карты&lt;/li&gt;
-&lt;li&gt;Оплата через отделение Сбербанка&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Германия</title>
-      <link>http://localhost:1313/visas/germany/</link>
+      <link>http://kartamira.travel/visas/germany/</link>
       <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/visas/germany/</guid>
+      <guid>http://kartamira.travel/visas/germany/</guid>
       <description>
 
 &lt;h3 id=&#34;виза-в-германию:fe94097b6b54081c0781223554754367&#34;&gt;Виза в Германию&lt;/h3&gt;
@@ -415,6 +285,142 @@
 &lt;li&gt;Оплата через отделение Сбербанка&lt;/li&gt;
 &lt;/ol&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Индия</title>
+      <link>http://kartamira.travel/visas/india/</link>
+      <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
+      
+      <guid>http://kartamira.travel/visas/india/</guid>
+      <description>
+
+&lt;h3 id=&#34;виза-в-индию:4d949475e970ab272903c39bf43eb72d&#34;&gt;Виза в Индию&lt;/h3&gt;
+
+&lt;h3 id=&#34;виды-индийских-виз:4d949475e970ab272903c39bf43eb72d&#34;&gt;Виды индийских виз:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Электронная виза (туризм, однократная, до 30 дней пребывавния) - это визу можно оформить онлайн, без личного присутствия.&lt;/li&gt;
+&lt;li&gt;Однократная (1 въезд на территорию Индии)&lt;/li&gt;
+&lt;li&gt;Двукратная (2 въезда на территорию Индии)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;стоимость:4d949475e970ab272903c39bf43eb72d&#34;&gt;Стоимость:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;6 500 руб.&lt;/strong&gt; - однократная виза&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;8 500 руб.&lt;/strong&gt; - двукратная виза&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;условия:4d949475e970ab272903c39bf43eb72d&#34;&gt;Условия:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Данная виза действует с момента выдачи.&lt;/li&gt;
+&lt;li&gt;Срок действия визы составляет 6 месяцев.&lt;/li&gt;
+&lt;li&gt;Виза является туристической, однократной/двукратной.&lt;/li&gt;
+&lt;li&gt;Срок оформления 14 - 16 календарных дней.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;необходимые-документы:4d949475e970ab272903c39bf43eb72d&#34;&gt;Необходимые документы:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Заграничный паспорт - оригинал&lt;/li&gt;
+&lt;li&gt;Копия аннулированного заграничного паспорта, при наличии индийских виз (главная страница + индийские визы)&lt;/li&gt;
+&lt;li&gt;2 новые фотографии 3,5*4,5 цветные на белом фоне&lt;/li&gt;
+&lt;li&gt;Заполненный опросник (все пункты обязательны для заполнения)&lt;/li&gt;
+&lt;li&gt;Свидетельство о рождении (для детей до 18 лет) - копия&lt;/li&gt;
+&lt;li&gt;Согласие на вывоз ребенка (копия) + копия российского паспорта не выезжающего родителя (в случае поездки с одним из родителей)&lt;/li&gt;
+&lt;li&gt;Бронь отеля, авиабилета – при наличии&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;способы-оплаты:4d949475e970ab272903c39bf43eb72d&#34;&gt;Способы оплаты:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Наличный расчет в офисе (г. Уфа, ул. Цюрупы, д. 124)&lt;/li&gt;
+&lt;li&gt;Оплата с банковской карты&lt;/li&gt;
+&lt;li&gt;Оплата через отделение Сбербанка&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>США</title>
+      <link>http://kartamira.travel/visas/usa/</link>
+      <pubDate>Fri, 20 Feb 2015 14:31:56 &#43;0500</pubDate>
+      
+      <guid>http://kartamira.travel/visas/usa/</guid>
+      <description>
+
+&lt;h3 id=&#34;виза-в-сша:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Виза в США&lt;/h3&gt;
+
+&lt;h3 id=&#34;стоимость:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Стоимость:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2 500 руб.&lt;/strong&gt; - Подготовка всех документов, заполнение анкеты, закрытие цели поездки и запись на собеседование&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;160$&lt;/strong&gt; - Консульский/сервисный сбор (оплачивается по курсу в российских рублях)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;условия:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Условия:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Данная виза действует с момента выдачи.&lt;/li&gt;
+&lt;li&gt;Срок действия визы &lt;strong&gt;3 года&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Срок оформления 3 недели&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;необходимые-документы:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Необходимые документы:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Оригинал заграничного паспорта (или копия всех страниц с отметками)&lt;/li&gt;
+&lt;li&gt;Оригинал аннулированного заграничного паспорта (или копия всех страниц с отметками)&lt;/li&gt;
+&lt;li&gt;Копия российского паспорта (главная страница+прописка)&lt;/li&gt;
+&lt;li&gt;1 распечатанная и 1 в электронном виде фотография 5*5 см. цветные на белом фоне&lt;/li&gt;
+&lt;li&gt;Заполненный опросник&lt;/li&gt;
+&lt;li&gt;Справка с работы с указанием должности и заработной платы /справка с места учебы / пенсионное удостоверение&lt;/li&gt;
+&lt;li&gt;Справка из банка об остатке денежных средств на счете.&lt;/li&gt;
+&lt;li&gt;Подтверждение социально-экономических связей с родиной (копии свидетельств на собственность, о браке, о рождении детей) - при наличии&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;необходимые-документы-для-несовершеннолетних-детей:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Необходимые документы для несовершеннолетних детей:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Свидетельство о рождении (для детей до 18 лет)&lt;/li&gt;
+&lt;li&gt;Согласие на вывоз ребенка + копия российского паспорта не выезжающего родителя (в случае поездки с одним из родителей)&lt;/li&gt;
+&lt;li&gt;Справка с места учебы&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;поездка-по-частному-приглашению:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Поездка по частному приглашению&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Приглашение в свободной форме, с указанием всех данных приглашаемого и приглашающего (можно скан)&lt;/li&gt;
+&lt;li&gt;В случае поездки к близким родственникам - документальное подтверждение родства (свидетельства о рождении, о браке и т.п.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;поездка-по-бизнес-приглашению:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Поездка по бизнес приглашению:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Приглашения от делового партнера в США (можно скан)&lt;/li&gt;
+&lt;li&gt;В справке с работы обязательно указать, что направляетесь в командировку в США с ___ по ___ (даты поездки)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;способы-оплаты:5ce6550f02cd859f94c4e84de8a9b6cd&#34;&gt;Способы оплаты:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Наличный расчет в офисе (г. Уфа, ул. Цюрупы, д. 124)&lt;/li&gt;
+&lt;li&gt;Оплата с банковской карты&lt;/li&gt;
+&lt;li&gt;Оплата через отделение Сбербанка&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kartamira.travel/booking/hotels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://kartamira.travel/booking/hotels/</guid>
+      <description></description>
     </item>
     
   </channel>

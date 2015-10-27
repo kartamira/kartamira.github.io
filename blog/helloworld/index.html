@@ -10,6 +10,9 @@
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="//vk.com/js/api/openapi.js?117"></script>
+    <script type="text/javascript">
+          VK.Widgets.Subscribe("vk_subscribe", {}, -96277771);
+    </script>
 
 </head>
 <body>
@@ -26,15 +29,16 @@
 
       <div class="col-md-5">
         <h5>
-            <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (927) 926 9036 <br>
             <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (347) 2 666 487 <br>
+            <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (347) 2 666 075 <br>
+            <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (927) 9 269 036 <br>
             <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> &nbsp;
              г. Уфа, ул. Цюрупы, д. 124 <br>
             <span class="glyphicon glyphicon-time" aria-hidden="true"></span>&nbsp;&nbsp;
-            пн-пт, 10:00-18:00
+            пн-пт, 10:00-19:00
 
            <br><br>
-           <span class="glyphicon">vk</span> &nbsp;&nbsp; <a href="https://vk.com/tskartamira">vk.com/tskartamira</a>
+           <span class="glyphicon">vk</span> &nbsp;&nbsp; <a href="https://vk.com/kartamira.travel">vk.com/kartamira.travel</a>
         </h5>
       </div>
     </div>
@@ -46,11 +50,22 @@
           <div class="nikanavbar">
                   <ul class="nav navbar-nav">
                     <li>
-                      <a href="/">О нас</a>
+                      <a href="/">Главная</a>
+                    </li>
+                    <li>
+                      <a href="/directions">Направления</a>
                     </li>
                     <li><a href="/blog">Блог </a></li>
                     <li><a href="/visas">Оформление Виз </a></li>
-                    <li><a href="/booking">Авиабилеты и Отели </a></li>
+                    <li class="dropdown">
+                       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                         Авиабилеты и Отели <span class="caret"></span>
+                       </a>
+                       <ul class="dropdown-menu nikanavbar">
+                         <li><a href="/fly">Авиабилеты</a></li>
+                         <li><a href="/booking">Отели</a></li>
+                       </ul>
+                     </li>
                     <li><a href="/about">Контакты </a></li>
                   </ul>
           </div>
@@ -82,28 +97,30 @@
     <div class="row footer">
       <div class="col-xs-12 footer-line">
       </div>
-    	<div class="col-xs-12">
-    		Карта Мира: Travel Store. Турагенство.
+    	<div class="col-xs-6">
+    		Карта Мира: Travel Store. Турагентство.
         <br>
-        <p>
-          <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (927) 926 9036 <br>
-          <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (347) 2 666 487 <br>
-          <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> &nbsp;
-           г. Уфа, ул. Цюрупы, д. 124 <br>
-          <span class="glyphicon glyphicon-time" aria-hidden="true"></span>&nbsp;&nbsp;
-          пн-пт, 10:00-18:00
-        <br>
-        </p >
+            <p>
+              <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (347) 2 666 487 <br>
+              <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (347) 2 666 075 <br>
+              <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp; +7 (927) 9 269 036 <br>
+              <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> &nbsp;
+               г. Уфа, ул. Цюрупы, д. 124 <br>
+              <span class="glyphicon glyphicon-time" aria-hidden="true"></span>&nbsp;&nbsp;
+              пн-пт, 10:00-19:00
+            <br>
+            </p>
+      </div>
+    	<div class="col-xs-6">
+        Социальные сети
+        <div id="vk_subscribe"></div>
+      </div>
 
       </div>
       <div class="col-xs-4">
     	</div>
-    </div>
-
 </div>
-<script>document.write('<script src="http://'
-        + (location.host || 'localhost').split(':')[0]
-		+ ':1313/livereload.js?mindelay=10"></'
-        + 'script>')</script></body>
+
+</body>
 </html>
 

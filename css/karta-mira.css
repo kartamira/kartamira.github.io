@@ -6,7 +6,7 @@
 }
 
 .nikanavbar li:hover{
-	background-color: #000000;
+	background-color: #000000  !important;
 }
 
 .navbar-inverse .navbar-nav li a{
@@ -111,4 +111,9 @@ h3 a, h5 a, h1{
 
 .carousel-control.carousel-testimony {
 	background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.0) 100%)
+}
+
+.dropdown-menu {
+	color: #666666 !important;
+	background-color: #666666;
 }

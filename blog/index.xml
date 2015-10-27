@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Карта Мира: travel store</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://kartamira.travel/blog/</link>
     <description>Recent content in Blogs on Карта Мира: travel store</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,24 +10,24 @@
     
     
     <lastBuildDate>Sat, 10 Oct 2015 14:33:02 &#43;0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kartamira.travel/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Секреты Парижа: деревни Иль-де-Франс</title>
-      <link>http://localhost:1313/blog/il-de-france/</link>
+      <link>http://kartamira.travel/blog/il-de-france/</link>
       <pubDate>Sat, 10 Oct 2015 14:33:02 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/blog/il-de-france/</guid>
+      <guid>http://kartamira.travel/blog/il-de-france/</guid>
       <description>&lt;p&gt;Нет в мире более классического туристического направления чем Париж.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Новый, хороший сайт</title>
-      <link>http://localhost:1313/blog/helloworld/</link>
+      <link>http://kartamira.travel/blog/helloworld/</link>
       <pubDate>Sat, 10 Oct 2015 13:53:19 &#43;0500</pubDate>
       
-      <guid>http://localhost:1313/blog/helloworld/</guid>
+      <guid>http://kartamira.travel/blog/helloworld/</guid>
       <description>&lt;p&gt;Отчего каждый в &amp;ldquo;Карте Мира&amp;rdquo; сегодня улыбается во все лицо? Оттого что у нас появился новый сайт.&lt;/p&gt;
 
 &lt;p&gt;А это значит, что мы теперь сможем делиться интересными историями путешествий, рассказывать про наши ужасно выгодные предложения и стать еще ближе к вам. Ну или что-то такое. Отредактируйте меня кто нибудь.&lt;/p&gt;
